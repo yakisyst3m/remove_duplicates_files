@@ -1,7 +1,7 @@
 # Suppression des doublons
 ## Ce script va faire une recherche des doublons, puis les supprimer si ça match !
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yakisyst3m/forensics_debian_post_install) ![GitHub release-date](https://img.shields.io/github/release-date/yakisyst3m/forensics_debian_post_install)
+![GitHub last commit](https://img.shields.io/github/last-commit/yakisyst3m/remove_duplicates_files) ![GitHub release-date](https://img.shields.io/github/release-date/yakisyst3m/remove_duplicates_files)
 
 Lancer le script de cette façon : 
 ```
